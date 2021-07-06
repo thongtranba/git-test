@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/thongtranba/git-test.git"
   },
-  "author": "Thong TranBa",
+  "author": "thongtranBa",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/thongtranba/git-test/issues"
